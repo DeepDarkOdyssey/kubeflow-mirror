@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/profile-controller:v20190619-v0-219-gbd3daa8c-dirty-1ced0e
+FROM gcr.io/kubeflow-images-public/profile-controller:vmaster-g34aa47c2
